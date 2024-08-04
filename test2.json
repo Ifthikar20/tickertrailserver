@@ -1,0 +1,182 @@
+{
+    "data": [
+        {
+            "link": "https://finance.yahoo.com/news/warning-warren-buffet-selling-stocks-134747333.html",
+            "providerPublishTime": 1722692867,
+            "publisher": "Investing.com",
+            "relatedTickers": [
+                "AAPL"
+            ],
+            "title": "Warning: Warren Buffet is selling stocks. A lot",
+            "type": "STORY",
+            "uuid": "196e5ec7-ed79-3a7e-a04e-64dc1b2eb6ea"
+        },
+        {
+            "link": "https://finance.yahoo.com/news/warren-buffetts-berkshire-sold-nearly-133417680.html",
+            "providerPublishTime": 1722692057,
+            "publisher": "Investing.com",
+            "relatedTickers": [
+                "AAPL"
+            ],
+            "title": "Warren Buffett's Berkshire sold nearly half of its Apple stake",
+            "type": "STORY",
+            "uuid": "eb72e4bb-19c0-33af-b74c-9087146fb180"
+        },
+        {
+            "link": "https://finance.yahoo.com/m/0fb10796-41bc-392d-add4-5c6641508489/berkshire-hathaway-slashes.html",
+            "providerPublishTime": 1722691200,
+            "publisher": "Barrons.com",
+            "relatedTickers": [
+                "AAPL"
+            ],
+            "thumbnail": {
+                "resolutions": [
+                    {
+                        "height": 640,
+                        "tag": "original",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/M_PYri3VonovLiBrucHR.A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/93d9979a8fc75f1a8eaaa9e24b4eb7a7",
+                        "width": 1280
+                    },
+                    {
+                        "height": 140,
+                        "tag": "140x140",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/QqUIWLmsFKs1Z_hMEmGA1g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/93d9979a8fc75f1a8eaaa9e24b4eb7a7",
+                        "width": 140
+                    }
+                ]
+            },
+            "title": "Berkshire Hathaway Slashes Apple Stake by Nearly 50%",
+            "type": "STORY",
+            "uuid": "0fb10796-41bc-392d-add4-5c6641508489"
+        },
+        {
+            "link": "https://finance.yahoo.com/m/91f4f6c4-85ed-393f-9f49-c07ed451a345/dsa-vs.-dma%3A-how-europe%27s.html",
+            "providerPublishTime": 1722690000,
+            "publisher": "TechCrunch",
+            "relatedTickers": [
+                "META",
+                "AAPL",
+                "GOOG"
+            ],
+            "title": "DSA vs. DMA: How Europe's twin digital regulations are hitting Big Tech",
+            "type": "STORY",
+            "uuid": "91f4f6c4-85ed-393f-9f49-c07ed451a345"
+        },
+        {
+            "link": "https://finance.yahoo.com/m/147d42d6-ef83-3211-9ef5-92d0ae08f4f9/is-apple-stock-a-buy%3F.html",
+            "providerPublishTime": 1722690000,
+            "publisher": "Motley Fool",
+            "relatedTickers": [
+                "AAPL",
+                "^GSPC",
+                "MSFT"
+            ],
+            "thumbnail": {
+                "resolutions": [
+                    {
+                        "height": 4000,
+                        "tag": "original",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/fTg.9bE7gaV3qUXVbssS9w--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/c63b80a10311a8e9e1fe9ed0cba41cb2",
+                        "width": 6000
+                    },
+                    {
+                        "height": 140,
+                        "tag": "140x140",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/a_Vm21WkRRDn2w7wy6iaUw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c63b80a10311a8e9e1fe9ed0cba41cb2",
+                        "width": 140
+                    }
+                ]
+            },
+            "title": "Is Apple Stock a Buy?",
+            "type": "STORY",
+            "uuid": "147d42d6-ef83-3211-9ef5-92d0ae08f4f9"
+        },
+        {
+            "link": "https://finance.yahoo.com/m/3e31e916-bc2d-3106-abde-c7a58d8d8d29/warren-buffett%E2%80%99s-berkshire.html",
+            "providerPublishTime": 1722688740,
+            "publisher": "The Wall Street Journal",
+            "relatedTickers": [
+                "BRK-B",
+                "AAPL"
+            ],
+            "thumbnail": {
+                "resolutions": [
+                    {
+                        "height": 640,
+                        "tag": "original",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/HWgONPYnpxwXGzXWyGE0Vg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/8197e1452630b5320fcfb84fa5c71e54",
+                        "width": 1280
+                    },
+                    {
+                        "height": 140,
+                        "tag": "140x140",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/RW4Ptp_4whUTIvkY853D3w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/8197e1452630b5320fcfb84fa5c71e54",
+                        "width": 140
+                    }
+                ]
+            },
+            "title": "Warren Buffett\u2019s Berkshire Hathaway Hits the Sell Button",
+            "type": "STORY",
+            "uuid": "3e31e916-bc2d-3106-abde-c7a58d8d8d29"
+        },
+        {
+            "link": "https://finance.yahoo.com/news/investors-apple-nasdaq-aapl-seen-120016499.html",
+            "providerPublishTime": 1722686416,
+            "publisher": "Simply Wall St.",
+            "relatedTickers": [
+                "AAPL"
+            ],
+            "thumbnail": {
+                "resolutions": [
+                    {
+                        "height": 432,
+                        "tag": "original",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/.m1ghW2JIKMrn_021vRckQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/13f69b02f49f819df1dcc276114d4a99",
+                        "width": 1194
+                    },
+                    {
+                        "height": 140,
+                        "tag": "140x140",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/vJzlo.hO4lsED1bc1JFKuA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/13f69b02f49f819df1dcc276114d4a99",
+                        "width": 140
+                    }
+                ]
+            },
+            "title": "Investors in Apple (NASDAQ:AAPL) have seen enviable returns of 352% over the past five years",
+            "type": "STORY",
+            "uuid": "bcdef09b-1583-373c-ab48-845c642ac4e3"
+        },
+        {
+            "link": "https://finance.yahoo.com/m/643cd212-dce3-3937-bcf5-79e62e3e180e/what-we-learned-from-big-tech.html",
+            "providerPublishTime": 1722682800,
+            "publisher": "Investopedia",
+            "relatedTickers": [
+                "AAPL",
+                "MSFT",
+                "AMZN",
+                "META"
+            ],
+            "thumbnail": {
+                "resolutions": [
+                    {
+                        "height": 2000,
+                        "tag": "original",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/L3c.gN8AjqFLbs5Ut3xppw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/investopedia_245/a0de0e166de4ffe4ea95d4bf5830e3ae",
+                        "width": 3000
+                    },
+                    {
+                        "height": 140,
+                        "tag": "140x140",
+                        "url": "https://s.yimg.com/uu/api/res/1.2/XhFdQrgkQNR26Wq0pmq7yQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/investopedia_245/a0de0e166de4ffe4ea95d4bf5830e3ae",
+                        "width": 140
+                    }
+                ]
+            },
+            "title": "What We Learned From Big Tech Earnings in the Past Week",
+            "type": "STORY",
+            "uuid": "643cd212-dce3-3937-bcf5-79e62e3e180e"
+        }
+    ],
+    "message": "Success",
+    "status": 200
+}

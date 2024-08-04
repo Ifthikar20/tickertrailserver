@@ -1,0 +1,1715 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Verisk to Report Q2 Earnings: What's in the Offing? - Marathon Digital Holdings  ( NASDAQ:MARA ) , Trane Technologies  ( NYSE:TT ) ",
+            "url": "https://www.benzinga.com/news/earnings/24/07/39991416/verisk-to-report-q2-earnings-whats-in-the-offing",
+            "time_published": "20240726T194715",
+            "authors": [
+                "Zacks"
+            ],
+            "summary": "Verisk Analytics VRSK is scheduled to release its second-quarter fiscal 2024 results on Jul 31, before market open. VRSK surpassed the Zacks Consensus Estimate in three of the four trailing quarters and missed in one, delivering an earnings surprise of 4.5%, on average.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/charts/74/1722005691.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.976671"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.222279,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MARA",
+                    "relevance_score": "0.316846",
+                    "ticker_sentiment_score": "0.011729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.316846",
+                    "ticker_sentiment_score": "0.173678",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VRSK",
+                    "relevance_score": "0.524949",
+                    "ticker_sentiment_score": "0.207556",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Verisk  ( VRSK )  to Report Q2 Earnings: What's in the Offing?",
+            "url": "https://www.zacks.com/stock/news/2310323/verisk-vrsk-to-report-q2-earnings-whats-in-the-offing",
+            "time_published": "20240726T171000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Verisk Analytics' (VRSK) second-quarter fiscal 2024 top line is expected to have gained from growth in subscription revenues.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/03/23269.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.995869"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.210459,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MARA",
+                    "relevance_score": "0.308891",
+                    "ticker_sentiment_score": "0.011473",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.308891",
+                    "ticker_sentiment_score": "0.122511",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VRSK",
+                    "relevance_score": "0.513173",
+                    "ticker_sentiment_score": "0.265287",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's Why Trane Technologies  ( TT )  is a Strong Growth Stock",
+            "url": "https://www.zacks.com/stock/news/2309987/heres-why-trane-technologies-tt-is-a-strong-growth-stock",
+            "time_published": "20240726T134505",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default0.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.380707,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.339046",
+                    "ticker_sentiment_score": "0.243305",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Unveiling Trane Technologies  ( TT )  Q2 Outlook: Wall Street Estimates for Key Metrics",
+            "url": "https://www.zacks.com/stock/news/2309840/unveiling-trane-technologies-tt-q2-outlook-wall-street-estimates-for-key-metrics",
+            "time_published": "20240726T131523",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Looking beyond Wall Street's top -and-bottom-line estimate forecasts for Trane Technologies (TT), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the quarter ended June 2024.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default75.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.980509"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.161292,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.436009",
+                    "ticker_sentiment_score": "0.273109",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "These 2 Business Services Stocks Could Beat Earnings: Why They Should Be on Your Radar",
+            "url": "https://www.zacks.com/stock/news/2309761/these-2-business-services-stocks-could-beat-earnings-why-they-should-be-on-your-radar",
+            "time_published": "20240726T125010",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default291.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999756"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.346227,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.379051",
+                    "ticker_sentiment_score": "0.376472",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SPXC",
+                    "relevance_score": "0.258351",
+                    "ticker_sentiment_score": "0.270192",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Gartner to Report Q2 Earnings: What's in the Offing? - Gartner  ( NYSE:IT ) , Block  ( NYSE:SQ ) ",
+            "url": "https://www.benzinga.com/news/earnings/24/07/39966051/gartner-to-report-q2-earnings-whats-in-the-offing",
+            "time_published": "20240725T193057",
+            "authors": [
+                "Zacks"
+            ],
+            "summary": "Gartner Inc. IT is scheduled to release its second-quarter 2024 results on Jul 30, before market open. IT has an impressive earnings surprise history, having surpassed the Zacks Consensus Estimate in the four trailing quarters, with an average surprise of 19.5%. Gartner, Inc. price-eps-surprise ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/charts/9c/1721919071.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99237"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.289532,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.254751",
+                    "ticker_sentiment_score": "0.142236",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SQ",
+                    "relevance_score": "0.254751",
+                    "ticker_sentiment_score": "0.091255",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IT",
+                    "relevance_score": "0.254751",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Gartner  ( IT )  to Report Q2 Earnings: What's in the Offing?",
+            "url": "https://www.zacks.com/stock/news/2309344/gartner-it-to-report-q2-earnings-whats-in-the-offing",
+            "time_published": "20240725T161100",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Gartner's (IT) second-quarter 2024 top and bottom lines are likely to have increased year over year.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/74/190.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998917"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.271451,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.247838",
+                    "ticker_sentiment_score": "0.131811",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SQ",
+                    "relevance_score": "0.247838",
+                    "ticker_sentiment_score": "0.07603",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IT",
+                    "relevance_score": "0.247838",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Marathon Digital Holdings, Inc.  ( MARA )  Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+            "url": "https://www.zacks.com/stock/news/2309085/marathon-digital-holdings-inc-mara-expected-to-beat-earnings-estimates-can-the-stock-move-higher",
+            "time_published": "20240725T140156",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Marathon Digital (MARA) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default96.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.16536,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MARA",
+                    "relevance_score": "0.260189",
+                    "ticker_sentiment_score": "0.138452",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.175221",
+                    "ticker_sentiment_score": "0.047548",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should iShares Morningstar Mid-Cap Growth ETF  ( IMCG )  Be on Your Investing Radar?",
+            "url": "https://www.zacks.com/stock/news/2308501/should-ishares-morningstar-mid-cap-growth-etf-imcg-be-on-your-investing-radar",
+            "time_published": "20240725T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Style Box ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default75.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.291888,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.059341",
+                    "ticker_sentiment_score": "0.118",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.118354",
+                    "ticker_sentiment_score": "0.061742",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.176717",
+                    "ticker_sentiment_score": "0.212372",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRWD",
+                    "relevance_score": "0.118354",
+                    "ticker_sentiment_score": "0.061742",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TDG",
+                    "relevance_score": "0.118354",
+                    "ticker_sentiment_score": "0.061742",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Trane Technologies  ( TT )  Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+            "url": "https://www.zacks.com/stock/news/2307901/trane-technologies-tt-earnings-expected-to-grow-what-to-know-ahead-of-next-weeks-release",
+            "time_published": "20240724T140132",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Trane Technologies (TT) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default29.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.188906,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.300088",
+                    "ticker_sentiment_score": "0.24283",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer Calls Axsome A 'Double Or Nothing Stock,' Says SAP Is 'Incredible' - TORM  ( NASDAQ:TRMD ) ",
+            "url": "https://www.benzinga.com/trading-ideas/long-ideas/24/07/39932485/jim-cramer-calls-axsome-a-double-or-nothing-stock-says-sap-is-incredible",
+            "time_published": "20240724T132529",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "On CNBC's \"Mad Money Lightning Round,\" Jim Cramer said TORM plc TRMD has a \"remarkably high dividend yield. And as long as it has that dividend yield, the stock's going to stay up. But, when things start going bad, and they always do in this business, that yield's going to start going down.\"",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/24/axsome.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.122387,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EVR",
+                    "relevance_score": "0.104228",
+                    "ticker_sentiment_score": "0.12382",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.30569",
+                    "ticker_sentiment_score": "0.198075",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TRMD",
+                    "relevance_score": "0.399734",
+                    "ticker_sentiment_score": "0.033218",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SAP",
+                    "relevance_score": "0.399734",
+                    "ticker_sentiment_score": "0.163604",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AXSM",
+                    "relevance_score": "0.399734",
+                    "ticker_sentiment_score": "-0.022227",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "If You Invested $100 In This Stock 15 Years Ago, You Would Have $1,600 Today - Trane Technologies  ( NYSE:TT ) ",
+            "url": "https://www.benzinga.com/insights/news/24/07/39918306/if-you-invested-100-in-this-stock-15-years-ago-you-would-have-1-600-today",
+            "time_published": "20240723T203022",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Trane Technologies TT has outperformed the market over the past 15 years by 8.06% on an annualized basis producing an average annual return of 20.31%. Currently, Trane Technologies has a market capitalization of $78.08 billion.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2024/1721766619_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.238974,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.9545",
+                    "ticker_sentiment_score": "0.384186",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Robert Half  ( RHI )  to Post Q2 Earnings: What's in Store?",
+            "url": "https://www.zacks.com/stock/news/2307111/robert-half-rhi-to-post-q2-earnings-whats-in-store",
+            "time_published": "20240723T143500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Robert Half's (RHI) second-quarter 2024 revenues and earnings are likely to have declined year over year.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/35/1456.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.995869"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.117841,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.130434",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAH",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.074211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RHI",
+                    "relevance_score": "0.459624",
+                    "ticker_sentiment_score": "0.304324",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Should You Invest in the First Trust Industrials/Producer Durables AlphaDEX ETF  ( FXR ) ?",
+            "url": "https://www.zacks.com/stock/news/2306547/should-you-invest-in-the-first-trust-industrialsproducer-durables-alphadex-etf-fxr",
+            "time_published": "20240723T102004",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Sector ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default132.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.150152,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EME",
+                    "relevance_score": "0.127119",
+                    "ticker_sentiment_score": "0.069522",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OC",
+                    "relevance_score": "0.127119",
+                    "ticker_sentiment_score": "0.069522",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.127119",
+                    "ticker_sentiment_score": "0.069522",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Interpublic  ( IPG )  to Report Q2 Earnings: What's in the Offing?",
+            "url": "https://www.zacks.com/stock/news/2306292/interpublic-ipg-to-report-q2-earnings-whats-in-the-offing",
+            "time_published": "20240722T151900",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Interpublic's (IPG) second-quarter 2024 revenues and earnings are anticipated to have declined on a year-over-year basis.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/47/64950.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998917"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.175801,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.099119",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPXC",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.165787",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Should iShares Morningstar Mid-Cap ETF  ( IMCB )  Be on Your Investing Radar?",
+            "url": "https://www.zacks.com/stock/news/2305772/should-ishares-morningstar-mid-cap-etf-imcb-be-on-your-investing-radar",
+            "time_published": "20240722T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Style Box ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default169.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.163936,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.06623",
+                    "ticker_sentiment_score": "0.04906",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.132004",
+                    "ticker_sentiment_score": "0.064876",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.196877",
+                    "ticker_sentiment_score": "0.061518",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRWD",
+                    "relevance_score": "0.132004",
+                    "ticker_sentiment_score": "0.064876",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.132004",
+                    "ticker_sentiment_score": "0.064876",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Waste Management to Report Q2 Earnings: What's in Store? - Trane Technologies  ( NYSE:TT ) , S&P Global  ( NYSE:SPGI ) ",
+            "url": "https://www.benzinga.com/news/earnings/24/07/39863625/waste-management-to-report-q2-earnings-whats-in-store",
+            "time_published": "20240719T195102",
+            "authors": [
+                "Zacks"
+            ],
+            "summary": "Waste Management, Inc. WM is scheduled to release second-quarter 2024 results on Jul 24, after market close. WM's earnings surprise history has been decent. It surpassed the Zacks Consensus Estimate in three of the trailing four quarters and missed once, the average beat being 7%.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/19/alexander-grey-8lnbxtxfgzw-unsplash.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999687"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.271978,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.219477",
+                    "ticker_sentiment_score": "0.170976",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.219477",
+                    "ticker_sentiment_score": "0.119764",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WM",
+                    "relevance_score": "0.422661",
+                    "ticker_sentiment_score": "0.246501",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Republic Services  ( RSG )  to Report Q2 Earnings: What to Expect?",
+            "url": "https://www.zacks.com/stock/news/2305564/republic-services-rsg-to-report-q2-earnings-what-to-expect",
+            "time_published": "20240719T172600",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Republic Services' (RSG) second-quarter 2024 earnings and revenues are likely to increase year over year.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/c0/53200.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.997845"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.286309,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.235823",
+                    "ticker_sentiment_score": "0.168702",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.235823",
+                    "ticker_sentiment_score": "0.121342",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RSG",
+                    "relevance_score": "0.516073",
+                    "ticker_sentiment_score": "0.409553",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Waste Management  ( WM )  to Report Q2 Earnings: What's in Store?",
+            "url": "https://www.zacks.com/stock/news/2305530/waste-management-wm-to-report-q2-earnings-whats-in-store",
+            "time_published": "20240719T151300",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Waste Management's (WM) second-quarter 2024 top line is likely to have benefited from strong organic growth.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/a4/2122.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999974"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.258255,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.215574",
+                    "ticker_sentiment_score": "0.160445",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.215574",
+                    "ticker_sentiment_score": "0.112998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WM",
+                    "relevance_score": "0.415699",
+                    "ticker_sentiment_score": "0.264634",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "IQVIA  ( IQV )  to Report Q2 Earnings: What's in the Offing?",
+            "url": "https://www.zacks.com/stock/news/2303701/iqvia-iqv-to-report-q2-earnings-whats-in-the-offing",
+            "time_published": "20240717T150000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "IQVIA's (IQV) second-quarter 2024 revenues are likely to have gained from growth in the Technology and Analytics, and Research and Development segments.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/21/594.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999965"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.323676,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.28387",
+                    "ticker_sentiment_score": "0.183485",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.28387",
+                    "ticker_sentiment_score": "0.149095",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IQV",
+                    "relevance_score": "0.532941",
+                    "ticker_sentiment_score": "0.495032",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "How to Find Strong Business Services Stocks Slated for Positive Earnings Surprises",
+            "url": "https://www.zacks.com/stock/news/2302299/how-to-find-strong-business-services-stocks-slated-for-positive-earnings-surprises",
+            "time_published": "20240716T125009",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default69.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999997"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                }
+            ],
+            "overall_sentiment_score": 0.341761,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.318897",
+                    "ticker_sentiment_score": "0.339656",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.378094",
+                    "ticker_sentiment_score": "0.348023",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "CXM vs. TT: Which Stock Is the Better Value Option?",
+            "url": "https://www.zacks.com/stock/news/2301820/cxm-vs-tt-which-stock-is-the-better-value-option",
+            "time_published": "20240715T154024",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Investors interested in stocks from the Technology Services sector have probably already heard of Sprinklr ( CXM Quick QuoteCXM - ) and Trane Technologies ( TT Quick QuoteTT - ) . But which of these two stocks presents investors with the better value opportunity right now? Let's take a closer ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default271.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.525353,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.63878",
+                    "ticker_sentiment_score": "0.611342",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 ETFs That Pay Ultra-High Yields of Over 6%",
+            "url": "https://www.fool.com/investing/2024/07/12/3-etfs-that-pay-ultra-high-yields-of-over-6/",
+            "time_published": "20240712T094800",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "Income investors could love these exchange-traded funds.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/783015/hands-behind-head-smiling-woman.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.284196,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "-0.005057",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "-0.005057",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "-0.005057",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "0.087451",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "0.087451",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "0.087451",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ALB",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "0.087451",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PGR",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "-0.005057",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "APOS",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "0.087451",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.141726",
+                    "ticker_sentiment_score": "-0.006309",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Are Business Services Stocks Lagging Seagate Technology  ( STX )  This Year?",
+            "url": "https://www.zacks.com/stock/news/2299951/are-business-services-stocks-lagging-seagate-technology-stx-this-year",
+            "time_published": "20240711T134012",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Here is how Seagate (STX) and Trane Technologies (TT) have performed compared to their sector so far this year.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default259.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.293746,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.47147",
+                    "ticker_sentiment_score": "0.317349",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is Invesco Building & Construction ETF  ( PKB )  a Strong ETF Right Now?",
+            "url": "https://www.zacks.com/stock/news/2299678/is-invesco-building-construction-etf-pkb-a-strong-etf-right-now",
+            "time_published": "20240711T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Smart Beta ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default7.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999966"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.209215,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.123844",
+                    "ticker_sentiment_score": "0.067548",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.123844",
+                    "ticker_sentiment_score": "0.067548",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.184834",
+                    "ticker_sentiment_score": "0.148711",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.123844",
+                    "ticker_sentiment_score": "0.067548",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Mastercard  ( MA )  Expands UAE Reach With Strategic Partnerships",
+            "url": "https://www.zacks.com/stock/news/2299514/mastercard-ma-expands-uae-reach-with-strategic-partnerships",
+            "time_published": "20240710T165900",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Mastercard (MA) partners with GHA, NOW Money and Network International to launch new co-branded cards and digital payment solutions, boosting its presence in the UAE's luxury travel and unbanked segments.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/15/497.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.355817,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.237668",
+                    "ticker_sentiment_score": "0.2135",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PSN",
+                    "relevance_score": "0.237668",
+                    "ticker_sentiment_score": "0.203039",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.454714",
+                    "ticker_sentiment_score": "0.463258",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DUOL",
+                    "relevance_score": "0.237668",
+                    "ticker_sentiment_score": "0.206529",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is Franklin U.S. Mid Cap Multifactor Index ETF  ( FLQM )  a Strong ETF Right Now?",
+            "url": "https://www.zacks.com/stock/news/2298987/is-franklin-us-mid-cap-multifactor-index-etf-flqm-a-strong-etf-right-now",
+            "time_published": "20240710T102005",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Smart Beta ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default126.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999999"
+                }
+            ],
+            "overall_sentiment_score": 0.195021,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.112797",
+                    "ticker_sentiment_score": "0.055072",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NTAP",
+                    "relevance_score": "0.112797",
+                    "ticker_sentiment_score": "0.055072",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ETN: 3 Industrial Stocks With Strong Earnings Growth",
+            "url": "https://stocknews.com/news/etn-tt-csl-3-industrial-stocks-with-strong-earnings-growth/",
+            "time_published": "20240709T190254",
+            "authors": [
+                "StockNews.com Staff"
+            ],
+            "summary": "The industrial sector is booming, driven by rising demand for automation and the modernization of production processes. Given the industry's steady growth prospects, investors could consider quality industrial stocks Eaton Corporation plc ( ETN ) , Trane Technologies plc ( TT ) , and Carlisle ...",
+            "banner_image": "https://stocknews.com/wp-content/uploads/2023/03/Nidhi-Agarwal_Headshot-3.jpg",
+            "source": "Stocknews.com",
+            "category_within_source": "n/a",
+            "source_domain": "stocknews.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.658903"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.275269,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GIC",
+                    "relevance_score": "0.029327",
+                    "ticker_sentiment_score": "0.135324",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.259267",
+                    "ticker_sentiment_score": "0.229062",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "QIND",
+                    "relevance_score": "0.029327",
+                    "ticker_sentiment_score": "0.283929",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CSL",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.155851",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ETN",
+                    "relevance_score": "0.259267",
+                    "ticker_sentiment_score": "0.299272",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Investors Need to Take Advantage of These 2 Business Services Stocks Now",
+            "url": "https://www.zacks.com/stock/news/2298347/why-investors-need-to-take-advantage-of-these-2-business-services-stocks-now",
+            "time_published": "20240709T125009",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default33.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999996"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.36848,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.380012",
+                    "ticker_sentiment_score": "0.332881",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GEN",
+                    "relevance_score": "0.380012",
+                    "ticker_sentiment_score": "0.313998",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer Says He Will Pay No Amount For This Energy Stock, Calls Ferguson A 'Very, Very Good' Company - Alibaba Gr Hldgs  ( NYSE:BABA ) , Alliance Res Partners  ( NASDAQ:ARLP ) ",
+            "url": "https://www.benzinga.com/trading-ideas/long-ideas/24/07/39687225/jim-cramer-says-he-will-pay-no-amount-for-this-energy-stock-calls-ferguson-a-very-very-g",
+            "time_published": "20240709T123717",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "On CNBC's \"Mad Money Lightning Round,\" Jim Cramer said Ferguson plc FERG is a \"very, very good\" company. However, he recommends Trane Technologies plc TT or Carrier Global Corporation CARR 'in case you want HVAC ( heating, ventilating, and air conditioning ) .'",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/07/09/Jim-Cramer.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.201551,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.419733",
+                    "ticker_sentiment_score": "0.514693",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.217834",
+                    "ticker_sentiment_score": "0.137139",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CARR",
+                    "relevance_score": "0.217834",
+                    "ticker_sentiment_score": "0.137139",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PBR",
+                    "relevance_score": "0.217834",
+                    "ticker_sentiment_score": "-0.615599",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "FERG",
+                    "relevance_score": "0.419733",
+                    "ticker_sentiment_score": "0.185026",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SNTMF",
+                    "relevance_score": "0.109956",
+                    "ticker_sentiment_score": "0.38037",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "BX",
+                    "relevance_score": "0.217834",
+                    "ticker_sentiment_score": "0.378965",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ARLP",
+                    "relevance_score": "0.419733",
+                    "ticker_sentiment_score": "0.129561",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should You Invest in the Global X U.S. Infrastructure Development ETF  ( PAVE ) ?",
+            "url": "https://www.zacks.com/stock/news/2298257/should-you-invest-in-the-global-x-us-infrastructure-development-etf-pave",
+            "time_published": "20240709T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Sector ETF report for PAVE ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default95.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.174518,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.128135",
+                    "ticker_sentiment_score": "0.069783",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "-0.007011",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PWR",
+                    "relevance_score": "0.128135",
+                    "ticker_sentiment_score": "0.069783",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ETN",
+                    "relevance_score": "0.128135",
+                    "ticker_sentiment_score": "0.069783",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Will Trane Technologies  ( TT )  Beat Estimates Again in Its Next Earnings Report?",
+            "url": "https://www.zacks.com/stock/news/2297857/will-trane-technologies-tt-beat-estimates-again-in-its-next-earnings-report",
+            "time_published": "20240708T161015",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Trane Technologies (TT) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default91.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999756"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.313845,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.431554",
+                    "ticker_sentiment_score": "0.476168",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "$100 Invested In Trane Technologies 10 Years Ago Would Be Worth This Much Today - Trane Technologies  ( NYSE:TT ) ",
+            "url": "https://www.benzinga.com/insights/news/24/07/39670225/100-invested-in-trane-technologies-10-years-ago-would-be-worth-this-much-today",
+            "time_published": "20240708T160015",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Trane Technologies TT has outperformed the market over the past 10 years by 10.55% on an annualized basis producing an average annual return of 21.45%. Currently, Trane Technologies has a market capitalization of $75.30 billion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2023/valuestock_image_3.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.238974,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TT",
+                    "relevance_score": "0.9545",
+                    "ticker_sentiment_score": "0.384186",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        }
+       
+    ]
+}
