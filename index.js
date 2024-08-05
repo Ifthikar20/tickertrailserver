@@ -24,16 +24,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
 
 
-const PORT = process.env.PORT || 9000;
-mongoose.connect(process.env.MONGO_URL, {
-
-}).then(async () => {
-  app.listen(PORT, () => console.log(`Server port is ${PORT}`));
-  // await mongoose.connection.db.dropDatabase();
-  // MainModel.insertMany(kpis);
-  // UserModel.insertMany(userdata);
-}).catch((error) => console.log(`${error} did not connect`));
-
 
 // Setting up Routes
 app.use('/kpi', kpiRoutes);
@@ -290,4 +280,14 @@ app.post('/send-email', async (req, res) => {
 app.get('/status', (req, res) => {
   res.status(200).json({ message: 'Success', status: 'OK' });
 });
+
+const PORT = process.env.PORT || 9000;
+mongoose.connect(process.env.MONGO_URL, {
+
+}).then(async () => {
+  app.listen(PORT, () => console.log(`Server port is ${PORT}`));
+  // await mongoose.connection.db.dropDatabase();
+  // MainModel.insertMany(kpis);
+  // UserModel.insertMany(userdata);
+}).catch((error) => console.log(`${error} did not connect`));
 
