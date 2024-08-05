@@ -274,6 +274,10 @@ app.post('/send-email', async (req, res) => {
     res.status(500).json({ error: 'Failed to send email.' });
   }
 });
+// Sample GET endpoint
+app.get('/status', (req, res) => {
+  res.status(200).json({ message: 'Success', status: 'OK' });
+});
 
 const PORT = process.env.PORT || 9000;
 mongoose.connect(process.env.MONGO_URL, {
